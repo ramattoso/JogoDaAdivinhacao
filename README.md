@@ -10,4 +10,4 @@ Além disso existe tratamento caso o usuário cancele algum dos alerts que dever
 
 ### Para jogar
 
-Para jogar, click [aqui](https://ramattoso.github.io/CursoAluraJavaScript/).
+Para jogar, click [aqui](https://ramattoso.github.io/JogoDaAdivinhacao).
